@@ -4,7 +4,7 @@
 
 This page is related to the article:
 
-<b>[The Casp2-PIDDosome is required for neuronal survival and choroid plexus morphogenesis](https://doi.org/10.1242/dev.204451){:target="_blank"}</b>  
+<b>[The Casp2-PIDDosome is required for neuronal survival and choroid plexus morphogenesis](https://doi.org/){:target="_blank"}</b>  
 <p style="font-size:small;">Benoît Bouloudi<sup>*</sup>, Vicente Elorriaga<sup>*</sup>, Marion Faucourt, Mélissa Conduché, Matthieu X Moreau, Felix Eichin, Gilles Courtois, Manolis Pasparakis, Maria C. Marin, Andreas Villunger, Alessandra Pierani, Alice Meunier, Frédéric Causeret<sup><a href="mailto:frederic.causeret@inserm.fr">
     <i class="material-icons" style="font-size:small;">email</i>
   </a></sup> and Nathalie Spassky<sup><a href="mailto:nathalie.spassky@bio.ens.psl.eu">
