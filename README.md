@@ -11,14 +11,14 @@ This page is related to the article:
     <i class="material-icons" style="font-size:small;">email</i>
   </a></sup> </p>
     
-<i>[bioRxiv](https://doi.org/){:target="_blank"}</i> (2025) XXX
+<i>[Journal name](https://doi.org/){:target="_blank"}</i> (Year) Issue:Page
 
 ## Data
 - Raw data as well as a Seurat object are available from GEO (Accession number [TO BE ADDED](https://www.ncbi.nlm.nih.gov/geo/query/){:target="_blank"})
-- Web summary file is provided [here](./web_summary.html)
+- Web summary is provided [here](./web_summary.html)
 
 ## R codes
 [Cell quality control](./Quality-control.html)  
-[Annotation](./Cell_types_annotation.html)  
+[Dataset annotation](./Cell_types_annotation.html)  
 [CR differentiation trajectory](./CR_pseudotime_FC.html)  
 [ChP differentiation trajectory](./ChP_pseudotime_FC.html)  
