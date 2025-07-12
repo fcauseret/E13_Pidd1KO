@@ -15,10 +15,10 @@ This page is related to the article:
 
 ## Data
 - Raw data as well as a Seurat object are available from GEO (Accession number [TO BE ADDED](https://www.ncbi.nlm.nih.gov/geo/query/){:target="_blank"})
-- Web summary is provided [here](./web_summary.html)
+- Web summary is provided [here](./web_summary.html){:target="_blank"}
 
 ## R codes
-[Cell quality control](./Quality-control.html)  
-[Dataset annotation](./Cell_types_annotation.html)  
-[CR differentiation trajectory](./CR_pseudotime_FC.html)  
-[ChP differentiation trajectory](./ChP_pseudotime_FC.html)  
+[Cell quality control](./Quality-control.html){:target="_blank"}  
+[Dataset annotation](./Cell_types_annotation.html){:target="_blank"}  
+[CR differentiation trajectory](./CR_pseudotime_FC.html){:target="_blank"}  
+[ChP differentiation trajectory](./ChP_pseudotime_FC.html){:target="_blank"}  
