@@ -14,7 +14,7 @@ This page is related to the article:
 <i>[Journal name](https://doi.org/){:target="_blank"}</i> (Year) Issue:Page
 
 ## Data
-- Raw data as well as a Seurat object are available from GEO (Accession number [TO BE ADDED](https://www.ncbi.nlm.nih.gov/geo/query/){:target="_blank"})
+- Raw data as well as a Seurat object are available from GEO (Accession number [GSE302646](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE302646){:target="_blank"})
 - Web summary is provided [here](./web_summary.html){:target="_blank"}
 
 ## R codes
